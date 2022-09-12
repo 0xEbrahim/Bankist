@@ -23,7 +23,7 @@
 </ul><ul>
 <li>JavaScript</li>
 </ul><h2>Screenshots</h2>
-<hr><p><img src="https://i.im.ge/2022/09/13/1MpkqJ.banks.png" alt=""></p><p><img src="https://i.im.ge/2022/09/13/1MpvFz.banks2.png" alt=""></p><h5>Steps</h5><ul>
+<hr><p><img src="https://i.postimg.cc/76TntTSy/banks.png" alt=""></p><p><img src="https://i.postimg.cc/yNRDwhpn/banks2.png" alt=""></p><h5>Steps</h5><ul>
 <li>1 - press the green " CODE " button</li>
 </ul><ul>
 <li>2 - you can select download as ZIP file</li>
